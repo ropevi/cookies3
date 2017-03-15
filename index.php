@@ -12,7 +12,7 @@ and open the template in the editor.
     <body> 
         <?php 
             echo "Afegint Cookies<br>"; 
-            echo "Sóc el desenvolupador xxxx"; 
+            echo "Sóc el desenvolupador Roger Pedros"; 
             setcookie("nom", "Jaume Pons", time()+3600, "/", "", 0); 
             setcookie("edat", "20", time()+3600, "/", "", 0); 
             setcookie("cicle", "DAW", time()+3600, "/", "", 0); 
